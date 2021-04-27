@@ -1,0 +1,1 @@
+/home/stepan/IdeaProjects/XMLFIlterTest/build/classes/kotlin/main/MainKt$xmlTest$reader$1.class:/home/stepan/IdeaProjects/XMLFIlterTest/build/classes/kotlin/main/MainKt.class
